@@ -8,6 +8,7 @@ The Elastic SIEM lab project is meant to establish a controlled environment for 
 ### Skills Learned
 
 - Setup and configuration of an elastic stack SIEM
+- Developing a custom dashboard for security events
 - Demonstrate profieciency in deploying a Kali Linux VM
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
